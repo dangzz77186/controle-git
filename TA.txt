@@ -17,4 +17,10 @@ git commit -m "premier commit; document recap"
 
 git push -u origin master
 
+git branch dangluan
 
+git checkout dangluan
+
+git checkout master
+
+git merge dangluan
