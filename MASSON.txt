@@ -1,0 +1,16 @@
+Commande en GIT utilisé étape par étape :
+
+git init
+
+git remote add origin "https://github.com/dangzz77186/controle-git.git"
+
+
+git add style.css
+
+git commit -m "premier commit du css"
+
+git branch YWEN
+
+git push -u origin YWEN
+
+
